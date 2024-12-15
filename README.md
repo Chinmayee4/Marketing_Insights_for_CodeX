@@ -9,8 +9,14 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 * Product Development
 * Identify Target Consumers
 # Dashboard Link
-
-
+<h>
+<a href="Resouces/Home.png">1</a>
+<a href="Resouces/Demographic.png">2</a>
+<a href="Resouces/Consumer.png">3</a>
+<a href="Resouces/Purchasing.png">4</a>
+<a href="Resouces/Competition.png">5</a>
+<a href="Resouces/Marketing.png">6</a>
+<a href="Resouces/CodeX.png">7</a></h>  
 # Result & Insights
 # Demographic Insights
 * Out of 10,000 respondents, 60% are male, showing a strong male preference for energy drinks.
@@ -32,9 +38,9 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 # Product Development
 * Only 219 out of 980 respondents have a positive brand perception of CodeX.
 
-*Improving product availability is crucial, as 20% of consumers choose a product based on its availability.
+* Improving product availability is crucial, as 20% of consumers choose a product based on its availability.
 
-*The taste experience rating of 3.28 matches the industry average, but it requires immediate attention for improvement.
+* The taste experience rating of 3.28 matches the industry average, but it requires immediate attention for improvement.
 # Recommendations For CodeX
 * Focus on immediate improvement in product availability and conduct another survey to address potential health concerns among 455 respondents familiar with our brand.
 
