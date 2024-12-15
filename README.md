@@ -9,7 +9,8 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 * Product Development
 * Identify Target Consumers
 # Dashboard Link
-<a href="Food_Beverage_industry_Dashboard.pdf"></a>
+<a href="Food_Beverage_industry_Dashboard.pdf">Dashboard</a>
+
 # Result & Insights
 # Demographic Insights
 * Out of 10,000 respondents, 60% are male, showing a strong male preference for energy drinks.
