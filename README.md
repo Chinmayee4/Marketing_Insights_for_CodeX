@@ -2,7 +2,7 @@
 # Introduction
 Codex, a German beverage company, recently launched its energy drink in 10 cities in India. The Marketing team aims to increase brand awareness, market share, and product development. They conducted a survey with 10,000 respondents in these cities.
 # Task
-Conduct an analysis on survey responses and provide actionable recommedations for CodeX’s Chief Marketing Officer.
+Conduct an analysis on survey responses and provide actionable recommendations for CodeX’s Chief Marketing Officer.
 # Goals
 * Increase Brand Awareness
 * Increase Market Share
