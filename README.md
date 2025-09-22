@@ -8,7 +8,7 @@ Conduct an analysis on survey responses and provide actionable recommendations f
 * Increase Market Share
 * Product Development
 * Identify Target Consumers
-# Dashboard Link
+# Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMmVjYjZlYTYtMmMwZi00OGI2LWJmMTEtNTU5YTFkMjBiODY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 <a href="Food_Beverage_industry_Dashboard.pdf">Dashboard</a>
 
 # Result & Insights
